@@ -58,7 +58,7 @@ export default function Home() {
     {/* WHATSAPP BUTTON */}
     <a
       className="shrink-0 rounded-xl bg-zinc-900 px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
-      href="https://wa.me/60135566897"
+      href="https://wa.me/601127163557"
       target="_blank"
       rel="noreferrer"
     >
@@ -124,7 +124,7 @@ export default function Home() {
             </p>
 
             <a
-              href="https://wa.me/60135566897?text=Hi%20Noonebiz%20Resources,%20I%20would%20like%20to%20request%20a%20quotation.%0A%0AItem:%20%0AQuantity:%20%0ADelivery%20location:%20"
+              href="https://wa.me/601127163557?text=Hi%20Noonebiz%20Resources,%20I%20would%20like%20to%20request%20a%20quotation.%0A%0AItem:%20%0AQuantity:%20%0ADelivery%20location:%20"
               target="_blank"
               rel="noreferrer"
               className="mt-5 block rounded-xl bg-zinc-900 px-5 py-3 text-center text-sm font-semibold text-white hover:opacity-90"
@@ -212,7 +212,7 @@ export default function Home() {
           <div className="mt-6 flex flex-wrap gap-3">
             <a
               className="rounded-xl bg-zinc-900 px-5 py-3 text-sm font-semibold text-white hover:opacity-90"
-              href="https://wa.me/60135566897"
+              href="https://wa.me/601127163557"
               target="_blank"
               rel="noreferrer"
             >
